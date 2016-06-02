@@ -25,3 +25,4 @@ def option_value (n,T,N,alpha,r,kappa,s,K, nu, theta,sigma):
     return np.mean(option_value)
 print option_value(10000000,1,100,0.5,0.1,0.4,60,100,0.4,0.5,0.01 )
 
+#this is a dummy comment
